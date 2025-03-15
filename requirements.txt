@@ -1,5 +1,5 @@
 asgiref==3.2.10
-certifi==2023.7.22
+certifi==2024.7.4
 Django==3.2.24
 django-cors-headers==3.4.0
 django-filter==2.4.0
